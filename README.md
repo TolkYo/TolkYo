@@ -22,7 +22,7 @@
 
 ## 📫 Como me encontrar
 - 📧 Email: claudio.contato.dev@gmail.com
-- 💼 LinkedIn: [Seu Perfil](www.linkedin.com/in/claudio-manoel-4ab592371)   
+- 💼 LinkedIn: [Claudio Manoel](www.linkedin.com/in/claudio-manoel-4ab592371)   
 
 ---
 
