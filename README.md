@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou TolkYo!
 
 - **Desenvolvedor Web** apaixonado por criar soluções funcionais e criativas.  
-- Trabalho principalmente com **PHP**, **JavaScript**, **HTML**, **SQL** e **Bootstrap**.  
+- Trabalho principalmente com **PHP**, **JavaScript**, **HTML**, **SQL**, **Bootstrap** e **Python** 
+- 
 
 ---
 
