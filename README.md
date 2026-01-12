@@ -1,12 +1,11 @@
-# 👋 Olá, eu sou TolkYo!
+# 👋 Hi, I'm TolkYo!
 
-- **Desenvolvedor Web** apaixonado por criar soluções funcionais e criativas.  
-- Trabalho principalmente com **PHP**, **JavaScript**, **HTML**, **SQL**, **Bootstrap** e **Python** 
-- 
+- **Web Developer** passionate about creating functional and creative solutions.
+- I work primarily with **PHP**, **JavaScript**, **HTML**, **SQL**, **Bootstrap**, and **Python**.
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## 🛠 Technologies and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -20,16 +19,13 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=TolkYo&show_icons=true&theme=tokyonight)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TolkYo&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TolkYo&show_icons=true&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TolkYo&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Como me encontrar
+## 📫 How to reach me
 - 📧 Email: claudio.contato.dev@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/claudio-manoel-4ab592371 
-
----
-
+- 💼 LinkedIn: www.linkedin.com/in/claudio-manoel-4ab592371
 ✨ *"A tecnologia move o mundo, e o código é a sua linguagem."*
