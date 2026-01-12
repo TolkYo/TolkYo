@@ -19,13 +19,25 @@
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TolkYo&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TolkYo&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 How to reach me
 - 📧 Email: claudio.contato.dev@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/claudio-manoel-4ab592371
-✨ *"A tecnologia move o mundo, e o código é a sua linguagem."*
+
+---
+
+## Currently Learning & Focusing
+- 🔭 I’m currently working on **Web Automation** and **Python scripts**.
+- 🌱 I’m currently learning **Game Development** and **VueJS**.
+- 👯 I’m looking to collaborate on **Open Source projects**.
+- 💬 Ask me about **PHP**, **JavaScript**, and **Database Management**.
+
+- ## 💻 Recent Projects
+- **Accessibility & Computer Vision**: Developed a solution using computer vision for social inclusion.
+- **Data Automation**: Created scripts to automate data processing and visualization.
+- **Multi-tool** With Python to resolve little problens in the day to day
+
+---
+
+## ⚡ Fun Fact
+- I love **aquariums** and keeping **shrimps**! 🦐
+- I enjoy solving problems and automating boring tasks.
