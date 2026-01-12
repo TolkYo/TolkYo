@@ -31,6 +31,8 @@
 - 👯 I’m looking to collaborate on **Open Source projects**.
 - 💬 Ask me about **PHP**, **JavaScript**, and **Database Management**.
 
+---
+
 ## 💻 Recent Projects
 - **Accessibility & Computer Vision**: Developed a solution using computer vision for social inclusion.
 - **Data Automation**: Created scripts to automate data processing and visualization.
