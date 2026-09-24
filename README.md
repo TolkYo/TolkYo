@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
   <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
   <img src="https://img.shields.io/badge/Cybersecurity-0B7285?style=for-the-badge&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/OSINT-4C1D95?style=for-the-badge&logoColor=white" alt="OSINT" />
 </p>
 
 ---
@@ -75,6 +76,7 @@
 ## 💻 Recent Projects
 - **Accessibility & Computer Vision**: Developed a computer vision solution for social inclusion.
 - **Mercosur Plate Recognition API**: Building an API to recognize Mercosur car license plates.
+- **Ygapé**: Waterway intelligence platform that maps navigable routes, collects flood and ebb data, and tracks historical drought series.
 - **formatabnt.com.br**: A website for formatting academic work (ABNT standards).
 - **Data Automation**: Created scripts to automate data processing and visualization.
 - **Multi-tool** With Python to resolve little problems in the day to day
